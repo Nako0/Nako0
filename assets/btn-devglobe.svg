@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="28" viewBox="0 0 140 28" role="img" aria-label="DevGlobe">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E1113"/>
+      <stop offset="50%" stop-color="#181C1F"/>
+      <stop offset="100%" stop-color="#0E1113"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="140" height="28" rx="6" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="139" height="27" rx="6" fill="none" stroke="rgba(255,255,255,0.15)"/>
+  <g transform="translate(12, 8)">
+    <svg width="12" height="12" viewBox="0 0 64 64">
+      <circle cx="32" cy="32" r="30" fill="#ffffff"/>
+      <circle cx="32" cy="32" r="30" fill="#115BCA" opacity="0.15"/>
+      <circle cx="32" cy="32" r="30" fill="none" stroke="#115BCA" stroke-width="2.5" opacity="0.4"/>
+      <ellipse cx="32" cy="32" rx="12" ry="28" fill="none" stroke="#115BCA" stroke-width="1.8" opacity="0.7"/>
+      <ellipse cx="32" cy="32" rx="22" ry="28" fill="none" stroke="#115BCA" stroke-width="1.2" opacity="0.5"/>
+      <ellipse cx="32" cy="32" rx="28" ry="12" fill="none" stroke="#115BCA" stroke-width="1.8" opacity="0.7"/>
+      <ellipse cx="32" cy="32" rx="28" ry="20" fill="none" stroke="#115BCA" stroke-width="1" opacity="0.35" transform="rotate(-15 32 32)"/>
+    </svg>
+  </g>
+  <text x="30" y="14" dominant-baseline="central" font-family="-apple-system,system-ui,Inter,sans-serif" font-size="12" font-weight="700" fill="#EEF1F3">devglobe.app</text>
+</svg>

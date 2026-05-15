@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="28" viewBox="0 0 124 28" role="img" aria-label="X @_nako_o0">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E1113"/>
+      <stop offset="50%" stop-color="#181C1F"/>
+      <stop offset="100%" stop-color="#0E1113"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="124" height="28" rx="6" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="123" height="27" rx="6" fill="none" stroke="rgba(255,255,255,0.15)"/>
+  <g transform="translate(12, 8)">
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="#EEF1F3">
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+    </svg>
+  </g>
+  <text x="30" y="14" dominant-baseline="central" font-family="-apple-system,system-ui,Inter,sans-serif" font-size="12" font-weight="700" fill="#EEF1F3">@_nako_o0</text>
+</svg>
